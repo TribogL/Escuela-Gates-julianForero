@@ -1,0 +1,27 @@
+{
+  "type": "Compass Connections",
+  "version": {
+    "$numberInt": "1"
+  },
+  "connections": [
+    {
+      "id": "9e2b1aca-9d65-4a2d-bc74-badfc03055dd",
+      "lastUsed": {
+        "$date": {
+          "$numberLong": "1719405345549"
+        }
+      },
+      "favorite": {
+        "name": "Gates",
+        "color": "color6"
+      },
+      "savedConnectionType": "favorite",
+      "connectionOptions": {
+        "connectionString": "mongodb+srv://julix4212:Dy80k8HdIuGZUbQu@clustergatesttt.dcnft6r.mongodb.net/?retryWrites=true&w=majority&appName=ClusterGatesTTT",
+        "oidc": {
+          "serializedState": "eyJvaWRjUGx1Z2luU3RhdGVWZXJzaW9uIjowLCJzdGF0ZSI6W119"
+        }
+      }
+    }
+  ]
+}
